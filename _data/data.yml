@@ -113,15 +113,15 @@ projects:
         role: 사용자 행위 분석
         link: "https://drive.google.com/file/d/1Yvzmo3Xb00VZ3OmKmLg3pIpqD1iV2qzv/view"
         tagline: "Windows Artifact 수집 및 증거 분석 - NTFS Log Tracker"
-        details: |
-            - Windows 10 환경에서 NTFS Log Tracker를 사용하여 Artifact 수집 및 사용자 행위 분석을 진행했습니다.
+        summary: |
+            Windows 10 환경에서 NTFS Log Tracker를 사용하여 Artifact 수집 및 사용자 행위 분석을 진행했습니다.
 
       - title: Team.JSD
         role: Backend, 파싱엔진 개발
         link: "https://drive.google.com/file/d/1ovSrVKmRG3dynL0_NwdpOtZdTR0ItABN/view?usp=sharing"
         tagline: "문서, 이메일 중심 내부 부정조사 지원 도구 개발"
-        details: |
-            - 내부 부정 행위의 신속한 조사를 지원하기 위해 대용량 데이터를 활용한 분석 도구 개발. 
+        summary: |
+            내부 부정 행위의 신속한 조사를 지원하기 위해 대용량 데이터를 활용한 분석 도구 개발. 
             
             이메일 및 문서에서 자연어 처리(NER) 기술을 통해 사건 관련 키워드를 자동으로 식별하고, 
             
@@ -137,7 +137,7 @@ projects:
         role: Backend
         link: "https://drive.google.com/file/d/1kGn4itlfn2_nusZFYW-IL2pshEAskgyU/view?usp=sharing"
         tagline: "디지털 포렌식 보고서 Assistant Service"
-        details: |
+        summary: |
             - 절차 점검 및 증거물 관리가 엄격하게 진행되는 디지털 포렌식 분석 보고서 작성 보조. 
             
             분석 데이터의 전처리와 분석 목적에 맞는 보고서 유형(문장, 표 등)을 손쉽게 출력하여, 보고서 작성 업무 부담 감소를 감소하고 
