@@ -101,7 +101,7 @@ experiences:
         time: 2022.09 ~ 2023.04
         company: inc0ginito
         details: |
-          - CTF 운영진
+          - CTF 운영진으로 문제 검토, 대회 당일 모니터링을 진행했습니다.
 
 projects:
     title: 프로젝트 및 활동
@@ -112,14 +112,21 @@ projects:
       - title: i-Keeper
         link: "https://drive.google.com/file/d/1Yvzmo3Xb00VZ3OmKmLg3pIpqD1iV2qzv/view"
         tagline: "Windows Artifact 수집 및 증거 분석 - NTFS Log Tracker"
+        details: |
+            - Windows 10 환경에서 NTFS Log Tracker를 사용하여 Artifact 수집 및 사용자 행위 분석을 진행했습니다.
 
       - title: Team.JSD
         link: "https://drive.google.com/file/d/1ovSrVKmRG3dynL0_NwdpOtZdTR0ItABN/view?usp=sharing"
-        tagline: "문서 이메일 중심 내부 부정조사 지원 도구 개발"
+        tagline: "문서, 이메일 중심 내부 부정조사 지원 도구 개발"
+        details: |
+            - 내부 부정조사 진행 시 대용량 데이터에서 부정 흐름을 정확하고 빠르게 파악할 수 있는 지원 도구 개발의 필요성을 느껴 대용량 데이터에서 정확하고 빠르게 부정 정황을 파악하기 위해 데이터 정제, 중복 파일 관리, 협업을 도와주는 분석 지원 도구 개발을 목표로 진행 하였습니다.
+            해당 프로젝트에서 Backend와 파싱엔진 개발을 맡았습니다.
 
       - title: D.P
         link: "https://drive.google.com/file/d/1kGn4itlfn2_nusZFYW-IL2pshEAskgyU/view?usp=sharing"
         tagline: "디지털 포렌식 보고서 Assistant Service"
-
+        details: |
+            - 디지털 포렌식 인력이 부족하고 종사자의 보고서 작성 업무가 과중되는 상황에서 전문성과 정확성이 요구되는 보고서 작성 시간을 줄이기 위한 디지털 포렌식 보고서 자동화 솔루션 개발을 진행 하였습니다.
+            해당 프로젝트에서 Backend 개발을 맡았습니다.
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
