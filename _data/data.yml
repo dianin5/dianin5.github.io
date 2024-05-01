@@ -110,23 +110,42 @@ projects:
       
     assignments:
       - title: i-Keeper
+        role: 사용자 행위 분석
         link: "https://drive.google.com/file/d/1Yvzmo3Xb00VZ3OmKmLg3pIpqD1iV2qzv/view"
         tagline: "Windows Artifact 수집 및 증거 분석 - NTFS Log Tracker"
         details: |
             - Windows 10 환경에서 NTFS Log Tracker를 사용하여 Artifact 수집 및 사용자 행위 분석을 진행했습니다.
 
       - title: Team.JSD
+        role: Backend, 파싱엔진 개발
         link: "https://drive.google.com/file/d/1ovSrVKmRG3dynL0_NwdpOtZdTR0ItABN/view?usp=sharing"
         tagline: "문서, 이메일 중심 내부 부정조사 지원 도구 개발"
         details: |
-            - 내부 부정조사 진행 시 대용량 데이터에서 부정 흐름을 정확하고 빠르게 파악할 수 있는 지원 도구 개발의 필요성을 느껴 대용량 데이터에서 정확하고 빠르게 부정 정황을 파악하기 위해 데이터 정제, 중복 파일 관리, 협업을 도와주는 분석 지원 도구 개발을 목표로 진행 하였습니다.
-            해당 프로젝트에서 Backend와 파싱엔진 개발을 맡았습니다.
+            - 내부 부정 행위의 신속한 조사를 지원하기 위해 대용량 데이터를 활용한 분석 도구 개발. 
+            
+            이메일 및 문서에서 자연어 처리(NER) 기술을 통해 사건 관련 키워드를 자동으로 식별하고, 
+            
+            메타 데이터와 파일 해시값 분석을 통해 관련 문서를 신속하게 연결하여 핵심 증거를 쉽게 검색. 
+            
+            조사 팀원 간의 협업을 용이하게 하며, 코멘트 기능으로 분석 내용 교차 검증 및 중복 조사 방지. 
+            
+            문서를 직접 열람하지 않고도 증거를 빠르게 파악할 수 있어 조사 과정의 효율성 극대화. 
+            
+            결과적으로 부정 행위 조사 시 필수적인 정보의 신속한 파악과 정확한 분석을 가능하게 함.
 
       - title: D.P
+        role: Backend
         link: "https://drive.google.com/file/d/1kGn4itlfn2_nusZFYW-IL2pshEAskgyU/view?usp=sharing"
         tagline: "디지털 포렌식 보고서 Assistant Service"
         details: |
-            - 디지털 포렌식 인력이 부족하고 종사자의 보고서 작성 업무가 과중되는 상황에서 전문성과 정확성이 요구되는 보고서 작성 시간을 줄이기 위한 디지털 포렌식 보고서 자동화 솔루션 개발을 진행 하였습니다.
-            해당 프로젝트에서 Backend 개발을 맡았습니다.
+            - 절차 점검 및 증거물 관리가 엄격하게 진행되는 디지털 포렌식 분석 보고서 작성 보조. 
+            
+            분석 데이터의 전처리와 분석 목적에 맞는 보고서 유형(문장, 표 등)을 손쉽게 출력하여, 보고서 작성 업무 부담 감소를 감소하고 
+            
+            보고서 양식과 내용의 동일성 증가 및 누락되는 정보 검토가 가능하여 보다 효율적인 보고서 작성 업무 제공 가능.
+            
+            최종적으로 분석 목적에 맞는 데이터 추출 및 분석 결과 표&문장으로 제시.
+            
+            
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
