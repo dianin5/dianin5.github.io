@@ -34,7 +34,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Medium
+          level: beginner
 
         - idiom: Japanese
           level: beginner
@@ -53,6 +53,7 @@ sidebar:
           
         - item: J-POP & K-POP
           link:
+          
         - item: Game
           link:
 
