@@ -63,7 +63,7 @@ career-profile:
       
       dianin5이라는 닉네임을 사용하고 있고, 남들보다 IT 공부를 늦게 시작했기에 사소한 것이라도 주워담아 내 것으로 만드는 것을 목표로 공부하고 있습니다.
 
-      주요 관심사는 정보보호, 디지털 포렌식 및 Backend 이며 Best of the Best 12기 프로젝트 경험을 바탕삼아 많은 대회 활동에 참가하는 것을 목표로 하고 있습니다.
+      주요 관심사는 디지털 포렌식 및 Backend 이며 Best of the Best 12기 프로젝트 경험을 바탕삼아 많은 대회 활동에 참가하는 것을 목표로 하고 있습니다.
       
 education:
     title: 교육
@@ -97,6 +97,7 @@ experiences:
             - i-Keeper (2-1) / CERT - CERT부장, Windows Artifact 수집 및 증거 분석 - NTFS Log Tracker
                 - Windows 10 환경에서 NTFS Log Tracker를 사용하여 Artifact 수집 및 사용자 행위 분석을 진행했습니다.
             - i-Keeper (2-2) / CERT - 회장
+            - i-Keeper (3-1) / CERT - 회장
             
       - role: Member
         time: 2022.09 ~ 2023.04
