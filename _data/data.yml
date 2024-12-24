@@ -140,7 +140,28 @@ oss:
     contributions:
       - title: 2024 제 5회 호남 사이버보안컨퍼런스 침해대응 경진대회
         link: "#"
-        tagline: "리버프 4th(장려상)"
+        tagline: "한국정보보호학회 호남지부장상 (장려상)"
+
+    title: 수상
+    intro: 
+    contributions:
+      - title: 2024 2학기 캡스톤 디자인 EXPO
+        link: "#"
+        tagline: "대구가톨릭대학교 산학협력단장상 (장려상)"
+
+    title: 수상
+    intro: 
+    contributions:
+      - title: 2024 한-베트남 제2회 국제SW코딩 경진대회 IoT특화코딩 대학부
+        link: "#"
+        tagline: "사단법인경북ICT융합산업진흥협회상 (대상)"
+
+    title: 수상
+    intro: 
+    contributions:
+      - title: 2024년도 한국정보보호학회 동계학술대회
+        link: "#"
+        tagline: "사단법인 한국정보보호학회장상 (우수논문상)"
         
 projects:
     title: 프로젝트 및 활동
@@ -165,10 +186,18 @@ projects:
       - title: 2024 Digital Forensic Challenge
         link: "#"
         tagline: "Mukjjippa 11th (학생부 2nd)"
-      
+
+      - title: 제10회 디지털 범인을 찾아라
+        link: "#"
+        tagline: "우현우 주니어"
+        
       - title: 2024 대구 경북 사이버공격 방어대회
         link: "#"
         tagline: "dianin5 2nd"
+
+      - title: 2024 KDFS 챌린지 경진대회
+        link: "#"
+        tagline: "올해 크리스마스는 따뜻할까요? 5th"
         
 publications:
     title: 발표 및 논문
@@ -180,5 +209,11 @@ publications:
         link: "#"
         authors: 서종찬, 손석훈, 오상원, 우현우
         conference: "한국디지털포렌식학회 하계학술대회, 2024"
+        
+    papers:
+      - title: "메모리 분석을 통한 데이터베이스 정보유출 위험성에 대한 연구"
+        link: "#"
+        authors: 서종찬, 손석훈, 오상원, 우현우
+        conference: "한국정보보호학회 동계학술대회, 2024"
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
