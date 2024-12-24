@@ -95,8 +95,7 @@ experiences:
         details: |
             - i-Keeper (1-1) / CERT - 회원
             - i-Keeper (1-2) / CERT - 장비부장
-            - i-Keeper (2-1) / CERT - CERT부장, Windows Artifact 수집 및 증거 분석 - NTFS Log Tracker
-                - Windows 10 환경에서 NTFS Log Tracker를 사용하여 Artifact 수집 및 사용자 행위 분석을 진행했습니다.
+            - i-Keeper (2-1) / CERT - CERT부장
             - i-Keeper (2-2) / CERT - 회장
             - i-Keeper (3-1) / CERT - 회장
             
@@ -142,23 +141,14 @@ oss:
         link: "#"
         tagline: "한국정보보호학회 호남지부장상 (장려상)"
 
-    title: 수상
-    intro: 
-    contributions:
       - title: 2024 2학기 캡스톤 디자인 EXPO
         link: "#"
         tagline: "대구가톨릭대학교 산학협력단장상 (장려상)"
 
-    title: 수상
-    intro: 
-    contributions:
       - title: 2024 한-베트남 제2회 국제SW코딩 경진대회 IoT특화코딩 대학부
         link: "#"
         tagline: "사단법인경북ICT융합산업진흥협회상 (대상)"
 
-    title: 수상
-    intro: 
-    contributions:
       - title: 2024년도 한국정보보호학회 동계학술대회
         link: "#"
         tagline: "사단법인 한국정보보호학회장상 (우수논문상)"
