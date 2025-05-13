@@ -79,6 +79,15 @@ education:
         time: 2023.06 ~ 2024.03
         details: |
           디지털포렌식 트랙 / 문서 이메일 중심 내부 부정조사 지원 도구 개발 / 디지털 포렌식 보고서 Assistant Service
+      - degree: Certificate of Completion (Windows Forensics with Belkasoft)
+        university: Belkasoft Learning Center
+        time: 2025-02-19
+        CPE 학점: 6점
+        details: | 
+          Windows Forensics with Belkasoft
+          
+    
+
 
 experiences:
     title: 주요 경험
